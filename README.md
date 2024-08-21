@@ -1,0 +1,1 @@
+This Python mini project is designed to teach basic Python concepts in a fun and challenging way by creating a slot machine that runs in the terminal. Each line of code is explained in detail, making it an educational tool as well as an engaging project.
